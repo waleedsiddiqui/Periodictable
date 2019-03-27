@@ -1,0 +1,44 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url("htmlimage.png");
+    background-size: cover;
+    text-align: center;
+    background-position: center;
+}
+.border{
+    border: 1px solid ghostwhite;
+}
+.border:hover{
+    transform : scale(1.3)
+}
+.sd{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow;
+
+}
+.bordern{
+    border: 1px solid ghostwhite;
+    text-align: center;
+    
+}
+.title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top:35px;
+    font-size: 50px;
+    color: rgb(241, 9, 9)
+}
+ .footer{
+     position: relative;
+     top: 10px;
+    width: 1050px;
+    border-spacing: 5px;
+    left: 30px;;
+    
+    
+}
+
+
+
